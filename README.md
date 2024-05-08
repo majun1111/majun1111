@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majun1111
-- 👀 I’m interested in developing software
+- 👀 I’m interested in software developing
 - 🌱 I’m currently learning spring data JPA
 - 💞️ I’m looking to collaborate on any spring projects  
 - 📫 How to reach me mjalawadi6@gmail.com
